@@ -1,5 +1,4 @@
-A comprehensive collection of names for a Pokémon game, including trainer names, trainer classes, double battle trainer names, double battle trainer classes, and Pokémon nicknames. Ideal for game development, ROM hacking, and Pokémon tabletop RPGs.
-
+A comprehensive collection of names for a Pokémon game, including trainer names, trainer classes, double battle trainer names, & sdouble battle trainer classes.
 This repository provides a categorized list of names to enhance the Pokémon gaming experience:
 
 - **Trainer Names**: Individual trainer name ideas.
