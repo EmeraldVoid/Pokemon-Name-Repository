@@ -22,7 +22,7 @@ This repository provides a categorized list of names to enhance the Pokémon gam
 
 ## Example Entries
 
-Here are a few example names. For the full list, check [trainer_names.txt](https://github.com/EmeraldVoid/Pokemon-Name-Repository/blob/main/trainer_names.txt) | [trainer_classes.txt](https://github.com/EmeraldVoid/Pokemon-Name-Repository/blob/main/trainer_classes.txt) | [double_trainer_names.txt](https://github.com/EmeraldVoid/Pokemon-Name-Repository/blob/main/double_trainer_names.txt) | [double_trainer_classes.txt](https://github.com/EmeraldVoid/Pokemon-Name-Repository/blob/main/double_trainer_classes.txt)
+Here are a few example names. The full list features over 1,200 names. For the full list, check [trainer_names.txt](https://github.com/EmeraldVoid/Pokemon-Name-Repository/blob/main/trainer_names.txt) | [trainer_classes.txt](https://github.com/EmeraldVoid/Pokemon-Name-Repository/blob/main/trainer_classes.txt) | [double_trainer_names.txt](https://github.com/EmeraldVoid/Pokemon-Name-Repository/blob/main/double_trainer_names.txt) | [double_trainer_classes.txt](https://github.com/EmeraldVoid/Pokemon-Name-Repository/blob/main/double_trainer_classes.txt)
 
 ### `trainer_names.txt`
 ```
