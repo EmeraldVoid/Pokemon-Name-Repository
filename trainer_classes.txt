@@ -1,0 +1,321 @@
+Ace Trainer
+Bug Catcher
+Cool Trainer
+Fisherman
+Hiker
+Bird Keeper
+Black Belt
+Psychic
+Gentleman
+Beauty
+Pokémon Ranger
+Hex Maniac
+Scientist
+Collector
+Veteran
+Swimmer
+Youngster
+Lass
+Dragon Tamer
+Ninja Boy
+Guitarist
+Parasol Lady
+Ruin Maniac
+Madame
+Aroma Lady
+Battle Girl
+Sailor
+Camper
+Super Nerd
+Poké Maniac
+Rancher
+Idol
+Officer
+Biker
+Juggler
+Artist
+Engineer
+Tamer
+Fairy Tale Girl
+Masked Royal
+Shadow Triad
+Team Grunt
+Team Admin
+Team Boss
+Mystical Sage
+Elder
+Arcane Scholar
+Warlock
+Witch Hunter
+Spirit Medium
+Summoner
+Time Traveler
+Rune Master
+Star Seeker
+Beast Tamer
+Sky Captain
+Steam Engineer
+Mecha Pilot
+Cyber Trainer
+Digital Duelist
+Neon Brawler
+Street Punk
+Martial Grandmaster
+Iron Fist
+Blade Dancer
+Storm Chaser
+Desert Nomad
+Glacial Warrior
+Tidal Guardian
+Inferno Knight
+Lunar Adept
+Solar Champion
+Astral Walker
+Cosmic Prophet
+Dream Weaver
+Illusionist
+Shadow Stalker
+Spectral Guardian
+Phantom Thief
+Oracle
+Prophet
+Hexblade
+Doomsayer
+Meteor Knight
+Frostbite Hunter
+Flame Acolyte
+Wind Whisperer
+Thunderbringer
+Nature Sage
+Voidcaller
+Plague Doctor
+Bio Hacker
+Techno Mage
+Neural Overlord
+Cybernetic Savant
+Steam Tactician
+Clockwork Artisan
+Mech Warrior
+Neon Samurai
+Synthwave Rogue
+Pixel Caster
+Quantum Gambler
+Hypernova Ace
+Galactic Marshal
+Stellar Gladiator
+Celestial Monk
+Echo Knight
+Void Assassin
+Aether Summoner
+Eclipse Duelist
+Dawnblade
+Dusk Warden
+Rune Knight
+Chrono Sentinel
+Time Breaker
+Reality Shaper
+Stormborn
+Sand Shaman
+Frozen Ronin
+Wave Master
+Infernal Crusader
+Lunar Ronin
+Solar Ascendant
+Dimensional Wanderer
+Mind Sculptor
+Veil Seeker
+Cosmic Trickster
+Mythic Hunter
+Astral Artisan
+Fate Binder
+Eldritch Scholar
+Elementalist
+Tinker Alchemist
+Soul Reaper
+Demon Slayer
+Mystic Archer
+Spirit Archer
+Arcane Rogue
+Runeblade Knight
+Ghost Hunter
+Shattered Knight
+Void Explorer
+Nova Duelist
+Celestial Guardian
+Gravity Master
+Starborn Sage
+Draconic Sorcerer
+Venom Dancer
+Storm Sorcerer
+Plagueborn
+Blood Mage
+Shadow Dancer
+Iron Warden
+Mana Sage
+Soulbinder
+Dream Eater
+Oracle of Light
+Phoenix Knight
+Titan Breaker
+Epoch Guardian
+Reality Hacker
+Frostforged
+Pyromancer
+Electromancer
+Aeromancer
+Terramancer
+Hydromancer
+Chronomancer
+Lightbringer
+Darkbane
+Sun Touched
+Moon Shaman
+Wildborn
+Beast Speaker
+Nature Walker
+Spirit Caller
+Lifeweaver
+Runewright
+Starforged Knight
+Dawnseeker
+Duskborne
+Eldritch Knight
+Arcane Guardian
+Chaos Herald
+Harmony Sage
+Twilight Monk
+Shadow Sage
+Frostborn Warrior
+Blazing Paladin
+Zephyr Monk
+Iron Sage
+Emberblade
+Stormblade
+Thunder Sage
+Glacial Tactician
+Flamewalker
+Oceanic Knight
+Windrider
+Sandborne
+Skyborne
+Deepsea Sorcerer
+Ashen Monk
+Stone Guardian
+Fire Seeker
+Storm Herald
+Abyssal Knight
+Rune Weaver
+Spirit Blade
+Mystic Swordsman
+Phantom Warrior
+Spectral Knight
+Celestial Sage
+Runic Guardian
+Bladecaller
+Starbreaker
+Tidal Blade
+Meteor Monk
+Lightforged
+Darkforged
+Starlit Sage
+Moonlit Guardian
+Sunlit Wanderer
+Frozen Prophet
+Infernal Ascendant
+Shadowcaster
+Dream Knight
+Timelost Wanderer
+Eldritch Tactician
+Dimensional Guardian
+Aether Walker
+Chrono Sage
+Neon Trickster
+Digital Mage
+Cyber Blade
+Hologram Duelist
+Astral Walker
+Void Seeker
+Galaxy Guardian
+Solar Flare Knight
+Moonlight Sorcerer
+Cosmic Knight
+Infinity Wanderer
+Time Thief
+Paradox Weaver
+Stormcaller
+Arcane Seer
+Etherborn
+Frostborn
+Shadowborn
+Infernalborn
+Celestialborn
+Voidborn
+Sunborn
+Moonborn
+Starborn
+Oceanborn
+Earthborn
+Windborn
+Flameborn
+Stormborn
+Nebula Guardian
+Supernova Sorcerer
+Hyperstorm Knight
+Quantum Sorcerer
+Singularity Walker
+Cosmic Herald
+Echo Walker
+Phantom Caller
+Spirit Weaver
+Dreamseer
+Reality Architect
+Soul Architect
+Mystic Artificer
+Aether Caster
+Dimensional Duelist
+Void Engineer
+Shadow Sentinel
+Temporal Warrior
+Elemental Tactician
+Draconic Knight
+Wyrm Caller
+Dragonkin Tamer
+Serpent Sage
+Storm Herald
+Lunar Ascendant
+Solar Sage
+Titan Guardian
+Behemoth Knight
+Chaos Knight
+Order Guardian
+Mythic Adventurer
+Timeless Wanderer
+Omniversal Guardian
+Eldritch Hunter
+Forbidden Seer
+Arcane Sentinel
+Etherblade Knight
+Void Whisperer
+Celestial Trickster
+Dream Alchemist
+Mystic Inquisitor
+Spectral Wanderer
+Neon Duelist
+Digital Knight
+Cyber Prophet
+Hologram Sage
+Glitched Champion
+Quantum Warden
+Galactic Sage
+Star Sentinel
+Supernova Mage
+Astral Wanderer
+Infinity Breaker
+Nebula Knight
+Black Hole Tactician
+Warp Blade
+Event Horizon Seer
+Nova Walker
+Temporal Nomad
+Fate Weaver
+Apocalypse Sage
